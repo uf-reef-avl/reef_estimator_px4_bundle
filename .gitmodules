@@ -1,0 +1,18 @@
+[submodule "position_to_velocity"]
+	path = position_to_velocity
+	url = https://github.com/uf-reef-avl/position_to_velocity
+[submodule "reef_control"]
+	path = reef_control
+	url = https://github.com/uf-reef-avl/reef_control/
+[submodule "reef_estimator"]
+	path = reef_estimator
+	url = https://github.com/uf-reef-avl/reef_estimator
+[submodule "reef_msgs"]
+	path = reef_msgs
+	url = https://github.com/uf-reef-avl/reef_msgs
+[submodule "setpoint_generator"]
+	path = setpoint_generator
+	url = https://github.com/uf-reef-avl/setpoint_generator
+[submodule "reef_teleop"]
+	path = reef_teleop
+	url = https://github.com/uf-reef-avl/reef_teleop
